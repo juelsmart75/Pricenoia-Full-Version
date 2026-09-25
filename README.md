@@ -236,4 +236,4 @@ This repository serves as the official landing page for Pricenoia. The software 
 **Get the most recent version of Pricenoia today!**
 
 ---
-**Last updated:** 2026-09-25 17:39:11 UTC
+**Last updated:** 2026-09-25 20:54:38 UTC
